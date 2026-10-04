@@ -1,4 +1,4 @@
-# Hey there 👋
+## Hey there 👋
 
 I'm **Simran**, a Computer Engineering graduate pursuing an **M.Tech in Cybersecurity at Delhi Technological University (DTU), India.**
 
@@ -10,7 +10,7 @@ This is my space to document my journey, share projects, experiment with new ide
 
 ---
 
-## Tools & Tech
+### Tools & Tech
 
 * 🐍 Python — scripting and automation
 * 🐧 Linux — command line and system fundamentals
@@ -21,7 +21,7 @@ This is my space to document my journey, share projects, experiment with new ide
 
 ---
 
-## What I'm Exploring
+### What I'm Exploring
 
 * 🔎 Threat detection and security analysis
 * 🌐 Network and application security
@@ -30,7 +30,7 @@ This is my space to document my journey, share projects, experiment with new ide
 
 ---
 
-## A Bit About Me
+### A Bit About Me
 
 * 🌱 Always learning, experimenting, and improving
 * 🐈 A cat person at heart
