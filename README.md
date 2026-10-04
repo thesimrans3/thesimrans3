@@ -16,7 +16,6 @@ This is my space to document my journey, share projects, experiment with new ide
 * 🐧 Linux — command line and system fundamentals
 * 🌐 Computer Networks — protocols and network security
 * 🔐 Cybersecurity — security fundamentals and ethical hacking
-* 🛠️ Git & GitHub — version control and documenting projects
 * 🧪 Security Labs — hands-on practice and experimentation
 
 ---
